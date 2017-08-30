@@ -80,4 +80,3 @@ module.exports = function(grunt) {
 
 };
 
-/*** https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt#toc-making-this-super-simple ***/
